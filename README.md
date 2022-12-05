@@ -1,2 +1,2 @@
 # First-repos
-Learning GitHub
+Learning GitHub by self
